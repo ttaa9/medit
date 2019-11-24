@@ -31,17 +31,17 @@ In a terminal, clone this repository:
 
 * Usage help: 
 
- - Press `h` when the application is open to print usage
+   - Press `h` when the application is open to print usage
 
- - Add colour with `c` and change the background with `b`
+   - Add colour with `c` and change the background with `b`
 
- - `F1` turns on the clipping plane (and toggles it off)
+   - `F1` turns on the clipping plane (and toggles it off)
 
- - `Right-click -> clipping -> toggle plane` controls whether to show the clipping plane or not (but clipping continues regardless)
+   - `Right-click -> clipping -> toggle plane` controls whether to show the clipping plane or not (but clipping continues regardless)
 
- - `F2` toggles *control* of the clipping plane: use left-mouse to rotate and middle mouse to translate it
+   - `F2` toggles *control* of the clipping plane: use left-mouse to rotate and middle mouse to translate it
 
- - `Right-click -> File -> Hardcopy PPM` or pressing `H` generates a PPM-format image file (which can be viewed via e.g. `eog`).
+   - `Right-click -> File -> Hardcopy PPM` or pressing `H` generates a PPM-format image file (which can be viewed via e.g. `eog`).
 
 * Thanks to C. Dobrzynski, there is an [inline HTML documentation](https://www.ljll.math.upmc.fr/frey/logiciels/Docmedit.dir/index.html) available in french.
 
