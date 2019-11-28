@@ -43,6 +43,8 @@ In a terminal, clone this repository:
 
    - `Right-click -> File -> Hardcopy PPM` or pressing `H` generates a PPM-format image file (which can be viewed via e.g. `eog`).
 
+   - To reverse the orientation of the clipping plane, do `right-click -> clipping -> inverse orient`
+
 * Thanks to C. Dobrzynski, there is an [inline HTML documentation](https://www.ljll.math.upmc.fr/frey/logiciels/Docmedit.dir/index.html) available in french.
 
 * There is also a [technical report](https://www.ljll.math.upmc.fr/frey/publications/RT-0253.pdf) describing its main features.
