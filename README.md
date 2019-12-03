@@ -45,6 +45,12 @@ In a terminal, clone this repository:
 
    - To reverse the orientation of the clipping plane, do `right-click -> clipping -> inverse orient`
 
+   - To "zoom"/scale/"move the camera in depth": use `alt+left-click`
+
+### Acknowledgments
+
+* Original repo [here](https://github.com/ISCDtoolbox/Medit)
+
 * Thanks to C. Dobrzynski, there is an [inline HTML documentation](https://www.ljll.math.upmc.fr/frey/logiciels/Docmedit.dir/index.html) available in french.
 
 * There is also a [technical report](https://www.ljll.math.upmc.fr/frey/publications/RT-0253.pdf) describing its main features.
